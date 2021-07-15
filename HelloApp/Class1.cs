@@ -7,9 +7,10 @@ namespace HelloApp
 {
     public class Class1
     {
+    private string name;
         public Class1()
         {
-
+            name = "Hello";
         }
     }
 }
