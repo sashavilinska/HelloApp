@@ -7,5 +7,9 @@ namespace HelloApp
 {
     public class Class2
     {
+        public Class2()
+        {
+
+        }
     }
 }
